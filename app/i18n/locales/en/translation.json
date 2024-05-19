@@ -1,0 +1,30 @@
+{
+    "video-types": {
+        "movies": "Movies",
+        "series": "Series",
+        "cartoons": "Cartoons"
+    },
+    "video-filter": {
+        "genre": {
+            "title": "Genre",
+            "reset-label": "Any genre",
+            "option": {
+                "action-movie": " Action movie",
+                "detective": "Detective",
+                "documentary": "Documentary",
+                "drama": "Drama",
+                "story": "Story",
+                "comedy": "Comedy",
+                "melodrama": "Melodrama",
+                "music": "Music",
+                "sport": "Sport",
+                "tv-show": "TV show",
+                "thriller": "Thriller",
+                "fantastic": "Fantastic",
+                "fantasy": "Fantasy"
+            }
+        },
+        "year-of-issue": "Year of issue",
+        "all-ages": "All ages"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "video-types": {
+        "movies": "Фильмы",
+        "series": "Сериалы",
+        "cartoons": "Мультфильмы"
+    },
+    "video-filter": {
+        "genre": {
+            "title": "Жанр",
+            "reset-label": "Любой жанр",
+            "option": {
+                "action-movie": "Боевик",
+                "detective": "Детектив",
+                "documentary": "Документальный",
+                "drama": "Драма",
+                "story": "История",
+                "comedy": "Комедия",
+                "melodrama": "Мелодрама",
+                "music": "Музыка",
+                "sport": "Спорт",
+                "tv-show": "Телешоу",
+                "thriller": "Триллер",
+                "fantastic": "Фантастика",
+                "fantasy": "Фэнтези"
+            }
+        },
+        "year-of-issue": "Год выпуска",
+        "all-ages": "Все возраста"
+    }
+}
